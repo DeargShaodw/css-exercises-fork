@@ -1,3 +1,9 @@
 #external {
     background-color: red;
+    color: white;
+    margin: auto;
+    margin-right: 375px;
+    margin-left: auto;
+    margin-bottom: 30px;
+    font-size: 40px;
 }
