@@ -1,24 +1,25 @@
 .classic {
-
-
-}
-
-.cool {
-
+    background-color: pink;
+    font-size: 18px;
 
 }
 
-.classy {
+.classic .cool {
 
-
+font-size: 40px;
 }
 
-#Drivers {
 
+
+#drivers {
+color: blue;
+font-size: 36px;
 
 }
 
 #license {
 
-    
+background-color: lawngreen;
+font-weight: bold;
+font-size: 25px;
 }
